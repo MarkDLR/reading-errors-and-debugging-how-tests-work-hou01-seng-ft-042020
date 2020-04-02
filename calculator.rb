@@ -5,4 +5,4 @@ second_number = 4
 def sum(first_number, second_number)
   first_number + second_number
 end
-difference = first number - second_number
+#difference = first number - second_number
